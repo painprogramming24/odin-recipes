@@ -28,8 +28,11 @@ By completing this project, you will have demonstrated the following skills:
 - List
 - links and Images
 - Commit Messages
+- The Cascade
+- Block and Inline
 
 -- Recipes:
+
 1. Chicken Adobo
 2. Chicken Tinola
-3. Pork Sinigang 
+3. Pork Sinigang
