@@ -1,0 +1,77 @@
+* {
+  font-family: OCR A Std, monospace;
+  background-color: grey;
+  color: white;
+}
+
+#recipe {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.link {
+  background-color: white;
+  color: black;
+  margin: 8px 16px;
+  padding: 12px;
+}
+
+#ado {
+  background-color: red;
+  color: white;
+  text-align: center;
+  margin: 20px;
+}
+
+#inm1 {
+  display: block;
+  margin: auto;
+}
+
+.des,
+.ing,
+.step {
+  background-color: red;
+  text-align: center;
+  font-size: 25px;
+}
+.container {
+  text-align: center;
+}
+
+.ulingre {
+  display: inline-block;
+  text-align: left;
+}
+
+.olsteps {
+  display: inline-block;
+  text-align: left;
+}
+
+.par,
+.ulingre,
+.step {
+  font-size: 20px;
+}
+
+.ulingre ul {
+  display: inline-block;
+}
+
+#tinola,
+#tinolades,
+.tinolaing,
+#tinolasteps {
+  background-color: green;
+  text-align: center;
+}
+
+#sinigang,
+.bluedes,
+.blueing,
+.bluesteps {
+  background-color: blue;
+  text-align: center;
+}
